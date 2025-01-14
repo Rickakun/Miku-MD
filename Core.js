@@ -1,4 +1,4 @@
-//Use latest fork to get latest features
+6//Use latest fork to get latest features
 
 process.on('uncaughtException', console.error)
 require("./config")
